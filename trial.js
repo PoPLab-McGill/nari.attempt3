@@ -9,12 +9,10 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/PoPLab-McGill/nari.attempt2@main/
             name: 'Autistics',
             title: {media: {word: 'Autistics'}, css: {color: '#31b404', 'font-size': '2em'}, height: 7},
             media: [
-                {word: 'Person1'},
-                {word: 'Person2'},
-                {word: 'Person3'},
-                {word: 'Person4'},
-                {word: 'Person5'},
-                {word: 'Person6'}
+  { word: 'Avoids eye contact' },
+                    { word: 'Dislikes unexpected changes' },
+                    { word: 'Struggles making friends' },
+                    { word: 'Repeats certain words' }
             ],
             css: {color: '#31b404', 'font-size': '3em'}
         },
